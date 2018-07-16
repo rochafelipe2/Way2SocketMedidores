@@ -1,0 +1,14 @@
+C:\Users\lipdi\source\repos\Way2Medidores\Way2Medidores\obj\Debug\Way2Medidores.csprojAssemblyReference.cache
+C:\Users\lipdi\source\repos\Way2Medidores\Way2Medidores\obj\Debug\Way2Medidores.csproj.CoreCompileInputs.cache
+C:\Users\lipdi\source\repos\Way2Medidores\Way2Medidores\bin\Debug\Way2Medidores.exe.config
+C:\Users\lipdi\source\repos\Way2Medidores\Way2Medidores\bin\Debug\Way2Medidores.exe
+C:\Users\lipdi\source\repos\Way2Medidores\Way2Medidores\bin\Debug\Way2Medidores.pdb
+C:\Users\lipdi\source\repos\Way2Medidores\Way2Medidores\obj\Debug\Way2Medidores.exe
+C:\Users\lipdi\source\repos\Way2Medidores\Way2Medidores\obj\Debug\Way2Medidores.pdb
+C:\ProjetosWay2\Way2Medidores\Way2Medidores\bin\Debug\Way2Medidores.exe.config
+C:\ProjetosWay2\Way2Medidores\Way2Medidores\bin\Debug\Way2Medidores.exe
+C:\ProjetosWay2\Way2Medidores\Way2Medidores\bin\Debug\Way2Medidores.pdb
+C:\ProjetosWay2\Way2Medidores\Way2Medidores\obj\Debug\Way2Medidores.csprojAssemblyReference.cache
+C:\ProjetosWay2\Way2Medidores\Way2Medidores\obj\Debug\Way2Medidores.csproj.CoreCompileInputs.cache
+C:\ProjetosWay2\Way2Medidores\Way2Medidores\obj\Debug\Way2Medidores.exe
+C:\ProjetosWay2\Way2Medidores\Way2Medidores\obj\Debug\Way2Medidores.pdb
